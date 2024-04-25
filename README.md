@@ -1,6 +1,6 @@
 # QR Code & Barcode Decoder
 
-Este é um decoder de QR Code e Barcode desenvolvido para processar imagens, vídeos e aplicações de imagens em tempo real.
+Este é um decoder de QR Code e Barcode desenvolvido para processar imagens, vídeos e aplicações em tempo real.
 
 ## Instalação
 
