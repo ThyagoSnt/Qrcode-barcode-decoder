@@ -17,8 +17,8 @@ pip install opencv-python
 Para decodificar QR codes e barcodes de imagens ou vídeos, execute o seguinte comando:
 
 ```bash
-python decode.py <caminho_para_a_imagem> image
-python decode.py <caminho_para_o_video> video
+python image_decode.py <caminho_para_a_imagem>
+python video_decode.py <caminho_para_o_video>
 ```
 
 
