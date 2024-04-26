@@ -8,7 +8,6 @@ Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar
 
 ```bash
 pip install pyzbar
-pip install numpy
 pip install opencv-python
 ```
 
